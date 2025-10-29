@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17467745.svg)](https://doi.org/10.5281/zenodo.17467745)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4015--2357-green.svg)](https://orcid.org/0009-0000-4015-2357)
+[![PhilPapers](https://img.shields.io/badge/PhilPapers-WIKTSM-blue.svg)](https://philpapers.org/rec/WIKTSM)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-144682622-orange.svg)](https://www.academia.edu/144682622/)
 
 **A synthetic framework for understanding consciousness as a shared, distributed field**
 
@@ -208,6 +210,44 @@ For research collaboration or speaking engagements, contact via email with subje
 
 ### Citation
 If you reference this work, please cite using the DOI above.
+
+---
+
+## 🌐 Where to Find This Research
+
+This work is available across multiple academic platforms for maximum accessibility:
+
+### 📚 Primary Sources
+
+- **GitHub Repository** (Code & Files)  
+  🔗 https://github.com/bjornshomelab/The-shared-mind  
+  ⭐ Star this repo to show support and track updates
+
+- **Zenodo** (Archival & DOI)  
+  🔗 https://zenodo.org/records/17467745  
+  📜 DOI: 10.5281/zenodo.17467745  
+  🏛️ Permanent archival, full citation metadata
+
+- **PhilPapers** (Philosophy Database)  
+  🔗 https://philpapers.org/rec/WIKTSM  
+  📖 Indexed in philosophy literature, categorized by topic
+
+- **Academia.edu** (Social Academic Network)  
+  🔗 https://www.academia.edu/144682622/  
+  👥 Track citations, readership analytics
+
+### 📊 Citation Tracking
+
+Monitor citations and impact:
+- **Google Scholar** - Auto-indexed via DOI (check in 1-2 weeks)
+- **Semantic Scholar** - AI-powered citation tracking
+- **Dimensions** - Research metrics and altmetrics
+
+### 🔔 Stay Updated
+
+- **Watch this GitHub repo** for updates and discussions
+- **Follow issues** for academic discourse
+- **Join releases** for new versions
 
 ---
 
