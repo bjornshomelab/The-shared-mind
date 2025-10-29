@@ -3,6 +3,14 @@
 # For academic research repository
 # ============================================
 
+# ----- Internal Strategy Documents (PRIVATE) -----
+# Marketing and publication strategy not for public view
+PUBLICATION_STATUS.md
+MARKETING_STRATEGY.md
+**/strategy/
+**/marketing/
+**/internal/
+
 # ----- OLD STRUCTURE (to be removed) -----
 avhandling-20251029T083443Z-1-001/
 presentations/

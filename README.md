@@ -82,6 +82,9 @@ the-shared-mind/
 ### 🎨 Presentation
 - **[FNC_Presentation.pdf](slides/FNC_Presentation.pdf)** - Visual slide deck (10 slides)
 
+### 👤 About the Author
+- **[ABOUT.md](ABOUT.md)** - Research background, philosophy, and contact information
+
 ---
 
 ## 🧪 Testable Predictions
