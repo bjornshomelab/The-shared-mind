@@ -171,6 +171,7 @@ Independent Researcher
 
 - 🔗 [ORCID: 0009-0000-4015-2357](https://orcid.org/0009-0000-4015-2357)
 - 📧 bjornshomelab@gmail.com
+- 💻 [GitHub: bjornshomelab/The-shared-mind](https://github.com/bjornshomelab/The-shared-mind)
 
 ### Research Focus
 - Philosophy of consciousness

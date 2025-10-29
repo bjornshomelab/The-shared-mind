@@ -12,8 +12,8 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.17467745"
     description: "Zenodo DOI"
-repository-code: "https://github.com/bjornshomelab/research-core"
-url: "https://github.com/bjornshomelab/research-core"
+repository-code: "https://github.com/bjornshomelab/The-shared-mind"
+url: "https://github.com/bjornshomelab/The-shared-mind"
 abstract: >
   The hard problem of consciousness remains unresolved despite major advances
   in neuroscience and artificial intelligence. This work develops a synthetic
