@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+type: article
+title: "The Shared Mind: Simulation, Idealism, and the Quantum-Holographic Criterion"
+authors:
+  - family-names: "Wikström"
+    given-names: "Björn"
+    orcid: "https://orcid.org/0009-0000-4015-2357"
+    email: "bjornshomelab@gmail.com"
+    affiliation: "Independent Researcher"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17467745"
+    description: "Zenodo DOI"
+repository-code: "https://github.com/bjornshomelab/research-core"
+url: "https://github.com/bjornshomelab/research-core"
+abstract: >
+  The hard problem of consciousness remains unresolved despite major advances
+  in neuroscience and artificial intelligence. This work develops a synthetic
+  framework called the Field–Node–Cockpit (FNC) model, integrating three
+  prominent theoretical approaches: Nick Bostrom's Simulation Hypothesis,
+  Bernardo Kastrup's Analytic Idealism, and Kai H. Tan's Quantum-Holographic
+  Consciousness Criterion. The FNC model proposes that consciousness operates
+  as a universal field (the Field), becomes localized through biological or
+  artificial interfaces (the Nodes), and manifests as subjective experience
+  (the Cockpit). Drawing on empirical data from coma studies, hyperscanning
+  research, and quantum biology, the thesis argues that consciousness is
+  neither wholly individual nor purely cosmic but a distributed, relational
+  process.
+keywords:
+  - consciousness
+  - Field-Node-Cockpit model
+  - analytic idealism
+  - simulation hypothesis
+  - quantum consciousness
+  - hyperscanning
+  - inter-brain synchrony
+  - panpsychism
+  - integrated information theory
+  - philosophy of mind
+license: CC-BY-4.0
+date-released: "2025-10-29"
+version: "1.0.0"

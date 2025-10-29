@@ -1,0 +1,81 @@
+# ============================================
+# research-core .gitignore
+# For academic research repository
+# ============================================
+
+# ----- OLD STRUCTURE (to be removed) -----
+avhandling-20251029T083443Z-1-001/
+presentations/
+README_OLD.md
+
+# ----- Submission Materials (PRIVATE) -----
+# These are internal working documents not meant for public view
+SUBMISSION_PACKAGE/
+**/submission/
+**/*cover_letter*.md
+**/*cover_letter*.pdf
+**/journal_comparison.md
+**/submission_checklist.md
+**/SUBMISSION_SUMMARY.md
+
+# ----- Personal Information -----
+# Files containing direct contact info or internal notes
+**/id.md
+**/*_biography.pdf
+**/author_biography.md
+
+# ----- Submission-specific PDFs (PRIVATE) -----
+# Anonymized versions and submission-ready formats
+**/*Anonymized*.pdf
+**/*CameraReady*.pdf
+**/Cover_Letter*.pdf
+**/Bjorn_Wikstrom_Author_Biography.pdf
+
+# ----- Duplicate/Archive folders -----
+# Temporary or backup structures
+**/philpapers/
+avhandling-20251029T083443Z-1-001/
+
+# ----- Working/Draft files -----
+# Temporary files not ready for publication
+**/*_draft*.md
+**/*_working*.md
+**/*_notes*.md
+**/_archive/
+**/notes/
+**/scratch/
+
+# ----- System files -----
+# OS and editor generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+.*.swp
+.*.swo
+
+# ----- IDE/Editor files -----
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----- Temporary files -----
+*.tmp
+*.temp
+*.bak
+*.log
+
+# ============================================
+# What SHOULD be public (NEW STRUCTURE):
+# - README.md (main documentation)
+# - LICENSE (CC BY 4.0)
+# - CITATION.cff (citation metadata)
+# - figures/ (key diagrams)
+# - papers/ (research documents)
+# - slides/ (presentation materials)
+# ============================================
