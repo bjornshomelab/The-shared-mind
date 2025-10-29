@@ -273,9 +273,9 @@ ORCID: 0009-0000-4015-2357
 - **Nautilus** (science/philosophy)
 
 ### Preprint Servers
-- **PhilPapers** - Upload and categorize
-- **arXiv** (quant-ph, if they accept)
-- **OSF Preprints**
+- [x] **PhilPapers** - ✅ DONE: https://philpapers.org/rec/WIKTSM
+- [ ] **arXiv** (quant-ph, if they accept)
+- [ ] **OSF Preprints**
 
 ---
 
