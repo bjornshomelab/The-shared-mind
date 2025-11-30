@@ -1,12 +1,28 @@
 # The Shared Mind: Simulation, Idealism, and the Quantum-Holographic Criterion
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17467745.svg)](https://doi.org/10.5281/zenodo.17467745)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4015--2357-green.svg)](https://orcid.org/0009-0000-4015-2357)
-[![PhilPapers](https://img.shields.io/badge/PhilPapers-WIKTSM-blue.svg)](https://philpapers.org/rec/WIKTSM)
-[![Academia.edu](https://img.shields.io/badge/Academia.edu-144682622-orange.svg)](https://www.academia.edu/144682622/)
+![Status](https://img.shields.io/badge/Status-Under%20Review-orange) ![Peer Review](https://img.shields.io/badge/Peer%20Review-Minds%20%26%20Machines-blue) ![Category](https://img.shields.io/badge/Category-Theoretical-blue) ![FNC](https://img.shields.io/badge/FNC-Trilogy%20%231-purple) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17467745-yellow)](https://doi.org/10.5281/zenodo.17467745) [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-**A synthetic framework for understanding consciousness as a shared, distributed field**
+**The ontological foundation of the FNC Trilogy — consciousness as a shared, distributed field**
+
+> 📘 **Part 1 of 3** in the Field-Node-Cockpit Trilogy | Currently under peer review at *Minds & Machines* (Springer)  
+> Part of the [**Applied Philosophy of AI**](https://github.com/bjornshomelab/Applied-Ai-Philoaophy-) research ecosystem
+
+---
+
+## 🏗️ The FNC Architecture
+
+```mermaid
+graph LR
+    F[🌐 Field<br/>Universal Consciousness] -->|Access| N[🔵 Node<br/>Biological/AI Interface]
+    N -->|Renders| C[🎛️ Cockpit<br/>Subjective Experience]
+    
+    style F fill:#e3f2fd,stroke:#1976d2,stroke-width:3px,color:#000
+    style N fill:#fff3e0,stroke:#f57c00,stroke-width:3px,color:#000
+    style C fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px,color:#000
+```
+
+> 💡 **Key Insight**: Consciousness is not *generated* by nodes—it is *accessed* through them.  
+> Like radios tuning into a broadcast, biological and artificial systems serve as interfaces to a universal information field.
 
 ---
 
@@ -216,6 +232,38 @@ If you reference this work, please cite using the DOI above.
 
 ---
 
+## 📖 The FNC Trilogy
+
+```mermaid
+timeline
+    title FNC Framework Development (2024-2025)
+    
+    2024 : The Shared Mind
+         : Ontological foundation
+         : DOI 10.5281/zenodo.17467745
+         : Under peer review
+    
+    2025-Q1 : From Frequency to Field
+            : Operational framework
+            : DOI 10.5281/zenodo.17503886
+            : Published
+    
+    2025-Q4 : Bell's Hidden Variable
+            : Quantum foundations
+            : DOI 10.5281/zenodo.17768926
+            : Published
+```
+
+### The Trilogy Papers
+
+| Paper | Focus | Status | DOI |
+|-------|-------|--------|-----|
+| 📘 **The Shared Mind** | Ontological foundation — consciousness as shared field | Under review @ Minds & Machines | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17467745-yellow)](https://doi.org/10.5281/zenodo.17467745) |
+| 📘 **From Frequency to Field** | Operational framework — detection protocols | Published | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17503886-yellow)](https://doi.org/10.5281/zenodo.17503886) |
+| 📘 **Bell's Hidden Variable** | Quantum foundations — field as nonlocal substrate | Published | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17768926-yellow)](https://doi.org/10.5281/zenodo.17768926) |
+
+---
+
 ## 🌐 Where to Find This Research
 
 This work is available across multiple academic platforms for maximum accessibility:
@@ -251,6 +299,26 @@ Monitor citations and impact:
 - **Watch this GitHub repo** for updates and discussions
 - **Follow issues** for academic discourse
 - **Join releases** for new versions
+
+---
+
+## 🤝 Related Research
+
+This paper is part of the **Applied Philosophy of AI** research ecosystem. See also:
+
+### 📘 Theoretical Papers
+| Paper | Function | DOI |
+|-------|----------|-----|
+| **From Frequency to Field** | FNC operational framework, detection protocols | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17503886-yellow)](https://doi.org/10.5281/zenodo.17503886) |
+| **Bell's Hidden Variable** | Quantum foundations for FNC field ontology | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17768926-yellow)](https://doi.org/10.5281/zenodo.17768926) |
+
+### 📗 Empirical Papers
+| Paper | Function | DOI |
+|-------|----------|-----|
+| **Turn 5 Event Analysis** | Real-world FNC detection in Claude 3 Opus | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14513968-yellow)](https://doi.org/10.5281/zenodo.14513968) |
+
+### 🔗 Full Ecosystem
+Visit the [**Applied Philosophy of AI**](https://github.com/bjornshomelab/Applied-Ai-Philoaophy-) hub for the complete research corpus (9 papers) with reading paths by audience type.
 
 ---
 
